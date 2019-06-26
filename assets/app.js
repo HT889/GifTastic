@@ -1,4 +1,4 @@
-var topics = [`pianos`, `subaru-wrx`, `los angeles`, `pink floyd`, `shell fish`, `armenia`];  //first set of buttons come from here
+var topics = [`pianos`, `wrx`, `puppers`, `los angeles`, `pink floyd`, `shell fish`, `armenia`];  //first set of buttons come from here
 
 var totalGifs = "&limit=" + 10;
 var api = 'https://api.giphy.com/v1/gifs/search?&q='
